@@ -1,2 +1,2 @@
-# algorithm
-there is some algorithm
+# Algorithm
+There is some algorithm
